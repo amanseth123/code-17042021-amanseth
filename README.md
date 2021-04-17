@@ -1,11 +1,11 @@
 # code-17042021-amanseth
 
-For running the code
-Get into the directory where the file is located 
-python pythonMain.py
+For running the code <br/>
+Get into the directory where the file is located <br/>
+python pythonMain.py<br/>
 
-For testing 
-In the directory on command shell
+For testing <br/>
+In the directory on command shell <br/>
 python -m unittest
 
 
